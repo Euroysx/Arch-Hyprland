@@ -1,9 +1,11 @@
 ## Changelogs
 
+## 11 Jan 2024
+- dropped wlsunset
+
 ## 05 Jan 2024
 - Added a preset feature
 - Added templates for contributing, and reporting, etc
-
 
 ## 01 Jan 2024
 - Re-coded complete and test
